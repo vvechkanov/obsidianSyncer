@@ -1,6 +1,6 @@
 {
-  "id": "actor-to-markdown",
-  "title": "Actor to Markdown Export",
+  "id": "obsidianSyncer",
+  "title": "Obsidian Syncer",
   "description": "Экспортирует персонажей в Markdown-файлы на сервере.",
   "version": "1.0.0",
   "compatibility": {
@@ -9,7 +9,7 @@
   },
   "authors": [
     {
-      "name": "ChatGPT"
+      "name": "vvechkanov"
     }
   ],
   "esmodules": [
@@ -17,7 +17,7 @@
   ],
   "scripts": [],
   "styles": [],
-  "url": "https://github.com/vvechkanov/actor-to-markdown",
-  "manifest": "https://raw.githubusercontent.com/vvechkanov/actor-to-markdown/main/module.json",
-  "download": "https://github.com/vvechkanov/actor-to-markdown/archive/refs/heads/main.zip"
+  "url": "https://github.com/vvechkanov/obsidianSyncer",
+  "manifest": "https://raw.githubusercontent.com/vvechkanov/obsidianSyncer/main/module.json",
+  "download": "https://github.com/vvechkanov/obsidianSyncer/archive/refs/heads/main.zip"
 }
