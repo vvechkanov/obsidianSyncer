@@ -17,7 +17,7 @@
   ],
   "scripts": [],
   "styles": [],
-  "url": "https://github.com/your-name/actor-to-markdown",
-  "manifest": "https://raw.githubusercontent.com/your-name/actor-to-markdown/main/module.json",
-  "download": "https://github.com/your-name/actor-to-markdown/archive/refs/heads/main.zip"
+  "url": "https://github.com/vvechkanov/actor-to-markdown",
+  "manifest": "https://raw.githubusercontent.com/vvechkanov/actor-to-markdown/main/module.json",
+  "download": "https://github.com/vvechkanov/actor-to-markdown/archive/refs/heads/main.zip"
 }
